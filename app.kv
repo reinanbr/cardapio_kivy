@@ -1,0 +1,110 @@
+<MD3Card>
+    padding: 4
+    size_hint: None, None
+    size: "200dp", "100dp"
+
+
+MDBoxLayout:
+    orientation: "vertical"
+
+    MDTopAppBar:
+        title: "Cardápio"
+        md_bg_color: '#28B463' #'#145A32'
+
+    # MDLabel:
+    #     text: "Cardápio IF"
+    #     halign: "center"
+
+    ScrollView:
+        #md_bg_color: '#D7DBDD'
+        #pos_hint: {"center_x": .5, "center_y": .5}
+        halign:'center'
+        ripple_behavior: True
+        pos_hint: {'center_x': .5}
+        size_hint_x: .95
+        #size_hint_y: .8
+        
+
+        ElevationCard:
+            size_hint: .99, .3
+            anchor_x:'center'
+            #size: '280dp','180dp'
+            ripple_behavior: True
+            focus_behavior: True
+           # pos_hint: {"center_x": .5, "center_y": .9}
+            md_bg_color: "#D7DBDD"
+            unfocus_color: "#D7DBDD"
+            focus_color: "#BDC3C7"
+            halign:'center'
+
+            canvas.before:
+                Color:
+                    rgba: app.theme_cls.primary_color
+                RoundedRectangle:
+                    #radius: [10]
+            
+            #radius: [15]
+
+            MDLabel:
+                id: food
+                text: 'test'
+                color: "black"
+                #pos: "5dp", "5dp"
+                bold: True
+                
+                halign: 'center'
+                valign: 'center'
+                ripple_behavior: True
+                pos_hint: {'center_x': .5}
+                size_hint_x: .7
+
+                MDBoxLayout:
+                    adaptative_height: True
+                    ripple_behavior: True
+                    pos_hint: {'center_x': .5}
+                    size_hint_x: .7
+        
+                     
+                    
+                    # MDIconButton:
+                    #     icon: 'heart'
+                    #     text:'6'
+                    #     color:'black'
+                    #     adaptive_size: True
+
+                    MDRectangleFlatIconButton:
+                        id:like
+                        icon: "heart"
+                        text: ''
+                        on_press: app.on_press_like()
+                        border_radius: 20
+                        radius: [15]
+
+
+                    MDRectangleFlatIconButton:
+                        id:dislike
+                        icon: "heart-broken"
+                        text: ''
+                        on_press: app.on_press_dislike()
+
+                    # MDBottomNavigationItem:
+                    #     icon: 'heart'
+                    #     text:'6'
+                    #     color:'black'
+                    #     adaptive_size: True
+
+                    # # MDLabel:
+                    #     text: '6'
+                    #     color: "black"
+                    #     icon: 'heart'
+                   #     adaptive_size: True
+    MDBottomAppBar:
+
+        MDTopAppBar:
+            title: ""
+            icon: "alarm-check"
+            md_bg_color: '#28B463'
+            #icon_color:'Violet'
+            type: "bottom"
+            left_action_items: [["menu", lambda x: x]]
+

@@ -1,0 +1,865 @@
+9=+==+==+==+==+==+==+==+==+==+= asteroids from week =+==+==+==+==+==+==+==+==+==+=
+
+
+=+==+==+==+==+= asteroids from day 2021-12-01 =+==+==+==+==+=
+
+=+==+==+= name: (2017 KG3) =+==+==+=
+speed: 14.90km/s
+diameter: 49.38m
+distance: 125.03 lunar
+magnetude: 24.7
+
+=+==+==+= name: (2017 UT5) =+==+==+=
+speed: 15.70km/s
+diameter: 16.35m
+distance: 156.91 lunar
+magnetude: 27.1
+
+=+==+==+= name: (2017 WY12) =+==+==+=
+speed: 15.40km/s
+diameter: 215.55m
+distance: 192.08 lunar
+magnetude: 21.5
+
+=+==+==+= name: (2018 MZ4) =+==+==+=
+speed: 8.34km/s
+diameter: 7.47m
+distance: 162.69 lunar
+magnetude: 28.8
+
+=+==+==+= name: (2018 PK21) =+==+==+=
+speed: 7.68km/s
+diameter: 28.41m
+distance: 69.99 lunar
+magnetude: 25.9
+
+=+==+==+= name: (2018 WG) =+==+==+=
+speed: 22.06km/s
+diameter: 5.94m
+distance: 143.57 lunar
+magnetude: 29.3
+
+=+==+==+= name: (2021 AV4) =+==+==+=
+speed: 14.58km/s
+diameter: 278.96m
+distance: 100.21 lunar
+magnetude: 20.94
+
+=+==+==+= name: (2021 JT4) =+==+==+=
+speed: 21.81km/s
+diameter: 31.01m
+distance: 141.44 lunar
+magnetude: 25.71
+
+=+==+==+= name: (2021 UQ9) =+==+==+=
+speed: 7.09km/s
+diameter: 69.75m
+distance: 36.36 lunar
+magnetude: 23.95
+
+=+==+==+= name: (2021 VV7) =+==+==+=
+speed: 4.92km/s
+diameter: 39.71m
+distance: 31.64 lunar
+magnetude: 25.173
+
+=+==+==+= name: (2021 VK11) =+==+==+=
+speed: 11.34km/s
+diameter: 209.96m
+distance: 93.49 lunar
+magnetude: 21.557
+
+=+==+==+= name: (2021 WR) =+==+==+=
+speed: 8.76km/s
+diameter: 35.38m
+distance: 6.74 lunar
+magnetude: 25.424
+
+=+==+==+= name: (2021 WP2) =+==+==+=
+speed: 7.28km/s
+diameter: 19.36m
+distance: 3.04 lunar
+magnetude: 26.733
+
+=+==+==+= name: (2021 WF3) =+==+==+=
+speed: 11.67km/s
+diameter: 5.70m
+distance: 0.37 lunar
+magnetude: 29.387
+
+=+==+==+= name: (2021 WC4) =+==+==+=
+speed: 14.27km/s
+diameter: 9.79m
+distance: 3.21 lunar
+magnetude: 28.213
+
+=+==+==+= name: (2021 WR4) =+==+==+=
+speed: 4.60km/s
+diameter: 3.56m
+distance: 1.12 lunar
+magnetude: 30.413
+
+=+==+==+= name: (2021 WE5) =+==+==+=
+speed: 7.46km/s
+diameter: 14.22m
+distance: 14.56 lunar
+magnetude: 27.403
+
+=+==+==+= name: (2021 XK) =+==+==+=
+speed: 16.87km/s
+diameter: 67.32m
+distance: 27.03 lunar
+magnetude: 24.027
+
+=+==+==+= name: (2021 XL) =+==+==+=
+speed: 10.38km/s
+diameter: 7.26m
+distance: 0.53 lunar
+magnetude: 28.864
+
+=+==+==+= name: (2021 XW) =+==+==+=
+speed: 18.45km/s
+diameter: 76.62m
+distance: 64.33 lunar
+magnetude: 23.746
+
+=+==+==+= name: (2021 XC1) =+==+==+=
+speed: 8.18km/s
+diameter: 64.71m
+distance: 63.12 lunar
+magnetude: 24.113
+
+=+==+==+= name: (2021 XJ1) =+==+==+=
+speed: 16.33km/s
+diameter: 37.22m
+distance: 28.83 lunar
+magnetude: 25.314
+
+=+==+==+= name: (2021 XK3) =+==+==+=
+speed: 11.14km/s
+diameter: 16.02m
+distance: 3.81 lunar
+magnetude: 27.144
+
+
+=+==+==+==+==+= asteroids from day 2021-12-03 =+==+==+==+==+=
+
+=+==+==+= name: (2014 YK14) =+==+==+=
+speed: 14.64km/s
+diameter: 129.88m
+distance: 72.26 lunar
+magnetude: 22.6
+
+=+==+==+= name: (2015 WY1) =+==+==+=
+speed: 14.58km/s
+diameter: 171.22m
+distance: 97.79 lunar
+magnetude: 22.0
+
+=+==+==+= name: (2015 XG261) =+==+==+=
+speed: 31.57km/s
+diameter: 105.57m
+distance: 166.84 lunar
+magnetude: 23.05
+
+=+==+==+= name: (2016 DW1) =+==+==+=
+speed: 7.19km/s
+diameter: 28.41m
+distance: 179.35 lunar
+magnetude: 25.9
+
+=+==+==+= name: (2017 VX13) =+==+==+=
+speed: 5.41km/s
+diameter: 78.26m
+distance: 116.57 lunar
+magnetude: 23.7
+
+=+==+==+= name: (2019 JY7) =+==+==+=
+speed: 15.61km/s
+diameter: 12.40m
+distance: 102.23 lunar
+magnetude: 27.7
+
+=+==+==+= name: (2021 RW99) =+==+==+=
+speed: 5.41km/s
+diameter: 131.69m
+distance: 44.77 lunar
+magnetude: 22.57
+
+=+==+==+= name: (2021 UY5) =+==+==+=
+speed: 17.22km/s
+diameter: 120.10m
+distance: 27.70 lunar
+magnetude: 22.77
+
+=+==+==+= name: (2021 VU10) =+==+==+=
+speed: 16.85km/s
+diameter: 92.67m
+distance: 27.85 lunar
+magnetude: 23.333
+
+=+==+==+= name: (2021 WZ1) =+==+==+=
+speed: 12.96km/s
+diameter: 19.85m
+distance: 1.97 lunar
+magnetude: 26.679
+
+=+==+==+= name: (2021 WU4) =+==+==+=
+speed: 19.98km/s
+diameter: 45.89m
+distance: 31.96 lunar
+magnetude: 24.859
+
+=+==+==+= name: (2021 WG6) =+==+==+=
+speed: 7.59km/s
+diameter: 42.85m
+distance: 38.39 lunar
+magnetude: 25.008
+
+=+==+==+= name: (2021 XD1) =+==+==+=
+speed: 5.80km/s
+diameter: 26.65m
+distance: 30.39 lunar
+magnetude: 26.039
+
+=+==+==+= name: (2021 XV1) =+==+==+=
+speed: 21.01km/s
+diameter: 114.48m
+distance: 31.68 lunar
+magnetude: 22.874
+
+=+==+==+= name: (2021 XM2) =+==+==+=
+speed: 20.61km/s
+diameter: 27.16m
+distance: 7.40 lunar
+magnetude: 25.998
+
+=+==+==+= name: (2021 XP2) =+==+==+=
+speed: 7.48km/s
+diameter: 32.71m
+distance: 2.70 lunar
+magnetude: 25.594
+
+=+==+==+= name: (2021 XH3) =+==+==+=
+speed: 4.35km/s
+diameter: 43.31m
+distance: 10.97 lunar
+magnetude: 24.985
+
+=+==+==+= name: (2021 XN3) =+==+==+=
+speed: 12.76km/s
+diameter: 87.37m
+distance: 8.29 lunar
+magnetude: 23.461
+
+=+==+==+= name: (2021 XQ3) =+==+==+=
+speed: 20.07km/s
+diameter: 53.92m
+distance: 17.04 lunar
+magnetude: 24.509
+
+
+=+==+==+==+==+= asteroids from day 2021-12-02 =+==+==+==+==+=
+
+=+==+==+= name: 438955 (2010 LN14) =+==+==+=
+speed: 10.98km/s
+diameter: 263.96m
+distance: 115.62 lunar
+magnetude: 21.06
+
+=+==+==+= name: (2010 TK7) =+==+==+=
+speed: 15.13km/s
+diameter: 297.54m
+distance: 86.95 lunar
+magnetude: 20.8
+
+=+==+==+= name: (2012 HM) =+==+==+=
+speed: 8.01km/s
+diameter: 65.09m
+distance: 163.44 lunar
+magnetude: 24.1
+
+=+==+==+= name: (2016 YH) =+==+==+=
+speed: 18.64km/s
+diameter: 34.16m
+distance: 100.60 lunar
+magnetude: 25.5
+
+=+==+==+= name: (2018 DT) =+==+==+=
+speed: 3.48km/s
+diameter: 16.35m
+distance: 96.99 lunar
+magnetude: 27.1
+
+=+==+==+= name: (2019 YS3) =+==+==+=
+speed: 5.69km/s
+diameter: 49.38m
+distance: 78.14 lunar
+magnetude: 24.7
+
+=+==+==+= name: (2020 XK3) =+==+==+=
+speed: 30.07km/s
+diameter: 193.88m
+distance: 176.60 lunar
+magnetude: 21.73
+
+=+==+==+= name: (2021 NY5) =+==+==+=
+speed: 13.44km/s
+diameter: 392.23m
+distance: 77.91 lunar
+magnetude: 20.2
+
+=+==+==+= name: (2021 VW) =+==+==+=
+speed: 3.88km/s
+diameter: 42.42m
+distance: 52.97 lunar
+magnetude: 25.03
+
+=+==+==+= name: (2021 WF1) =+==+==+=
+speed: 19.85km/s
+diameter: 182.87m
+distance: 43.52 lunar
+magnetude: 21.857
+
+=+==+==+= name: (2021 WF2) =+==+==+=
+speed: 12.57km/s
+diameter: 42.91m
+distance: 11.66 lunar
+magnetude: 25.005
+
+=+==+==+= name: (2021 WN2) =+==+==+=
+speed: 8.47km/s
+diameter: 20.03m
+distance: 5.72 lunar
+magnetude: 26.659
+
+=+==+==+= name: (2021 WC3) =+==+==+=
+speed: 12.85km/s
+diameter: 8.36m
+distance: 1.35 lunar
+magnetude: 28.557
+
+=+==+==+= name: (2021 WK4) =+==+==+=
+speed: 10.07km/s
+diameter: 12.67m
+distance: 4.55 lunar
+magnetude: 27.653
+
+=+==+==+= name: (2021 WL4) =+==+==+=
+speed: 10.10km/s
+diameter: 67.85m
+distance: 31.76 lunar
+magnetude: 24.01
+
+=+==+==+= name: (2021 WN4) =+==+==+=
+speed: 7.98km/s
+diameter: 44.03m
+distance: 12.32 lunar
+magnetude: 24.949
+
+=+==+==+= name: (2021 XN1) =+==+==+=
+speed: 9.28km/s
+diameter: 19.58m
+distance: 8.79 lunar
+magnetude: 26.709
+
+=+==+==+= name: (2021 XO2) =+==+==+=
+speed: 14.35km/s
+diameter: 38.07m
+distance: 4.73 lunar
+magnetude: 25.265
+
+=+==+==+= name: (2021 XL3) =+==+==+=
+speed: 8.06km/s
+diameter: 27.20m
+distance: 2.77 lunar
+magnetude: 25.995
+
+=+==+==+= name: (2021 XO3) =+==+==+=
+speed: 9.88km/s
+diameter: 46.36m
+distance: 37.95 lunar
+magnetude: 24.837
+
+
+=+==+==+==+==+= asteroids from day 2021-12-08 =+==+==+==+==+=
+
+=+==+==+= name: 480883 (2001 YE4) =+==+==+=
+speed: 10.82km/s
+diameter: 311.56m
+distance: 30.90 lunar
+magnetude: 20.7
+
+=+==+==+= name: (2011 YL63) =+==+==+=
+speed: 31.92km/s
+diameter: 284.15m
+distance: 65.53 lunar
+magnetude: 20.9
+
+=+==+==+= name: (2013 XA22) =+==+==+=
+speed: 18.62km/s
+diameter: 113.12m
+distance: 147.22 lunar
+magnetude: 22.9
+
+=+==+==+= name: (2014 YS) =+==+==+=
+speed: 12.62km/s
+diameter: 54.14m
+distance: 48.12 lunar
+magnetude: 24.5
+
+=+==+==+= name: (2015 LY13) =+==+==+=
+speed: 13.98km/s
+diameter: 65.09m
+distance: 96.54 lunar
+magnetude: 24.1
+
+=+==+==+= name: (2020 FB1) =+==+==+=
+speed: 9.61km/s
+diameter: 32.62m
+distance: 163.63 lunar
+magnetude: 25.6
+
+=+==+==+= name: (2020 KZ2) =+==+==+=
+speed: 5.63km/s
+diameter: 12.40m
+distance: 49.58 lunar
+magnetude: 27.7
+
+=+==+==+= name: (2021 GS12) =+==+==+=
+speed: 8.86km/s
+diameter: 32.62m
+distance: 103.19 lunar
+magnetude: 25.6
+
+=+==+==+= name: (2021 WT4) =+==+==+=
+speed: 6.42km/s
+diameter: 19.50m
+distance: 10.79 lunar
+magnetude: 26.718
+
+=+==+==+= name: (2021 XC) =+==+==+=
+speed: 6.86km/s
+diameter: 23.79m
+distance: 6.47 lunar
+magnetude: 26.286
+
+=+==+==+= name: (2021 XY1) =+==+==+=
+speed: 9.88km/s
+diameter: 44.52m
+distance: 43.80 lunar
+magnetude: 24.925
+
+
+=+==+==+==+==+= asteroids from day 2021-12-05 =+==+==+==+==+=
+
+=+==+==+= name: 518678 (2008 UZ94) =+==+==+=
+speed: 20.32km/s
+diameter: 1430.68m
+distance: 23.06 lunar
+magnetude: 17.39
+
+=+==+==+= name: (2005 FN) =+==+==+=
+speed: 7.05km/s
+diameter: 17.93m
+distance: 71.11 lunar
+magnetude: 26.9
+
+=+==+==+= name: (2005 LX36) =+==+==+=
+speed: 26.95km/s
+diameter: 297.54m
+distance: 172.19 lunar
+magnetude: 20.8
+
+=+==+==+= name: (2010 VE139) =+==+==+=
+speed: 4.99km/s
+diameter: 163.51m
+distance: 109.99 lunar
+magnetude: 22.1
+
+=+==+==+= name: (2012 FL35) =+==+==+=
+speed: 20.44km/s
+diameter: 491.52m
+distance: 148.92 lunar
+magnetude: 19.71
+
+=+==+==+= name: (2012 XN55) =+==+==+=
+speed: 23.34km/s
+diameter: 71.37m
+distance: 117.54 lunar
+magnetude: 23.9
+
+=+==+==+= name: (2019 XH2) =+==+==+=
+speed: 8.12km/s
+diameter: 7.14m
+distance: 39.25 lunar
+magnetude: 28.9
+
+=+==+==+= name: (2021 KM) =+==+==+=
+speed: 14.08km/s
+diameter: 32.93m
+distance: 151.38 lunar
+magnetude: 25.58
+
+=+==+==+= name: (2021 TJ4) =+==+==+=
+speed: 7.48km/s
+diameter: 164.26m
+distance: 49.39 lunar
+magnetude: 22.09
+
+=+==+==+= name: (2021 WZ2) =+==+==+=
+speed: 13.51km/s
+diameter: 25.34m
+distance: 8.40 lunar
+magnetude: 26.149
+
+=+==+==+= name: (2021 WD4) =+==+==+=
+speed: 10.30km/s
+diameter: 102.13m
+distance: 80.01 lunar
+magnetude: 23.122
+
+=+==+==+= name: (2021 WA5) =+==+==+=
+speed: 5.84km/s
+diameter: 15.15m
+distance: 8.65 lunar
+magnetude: 27.266
+
+=+==+==+= name: (2021 XF) =+==+==+=
+speed: 8.22km/s
+diameter: 9.35m
+distance: 2.34 lunar
+magnetude: 28.313
+
+=+==+==+= name: (2021 XU) =+==+==+=
+speed: 17.83km/s
+diameter: 37.70m
+distance: 16.52 lunar
+magnetude: 25.286
+
+=+==+==+= name: (2021 XC2) =+==+==+=
+speed: 9.51km/s
+diameter: 4.78m
+distance: 0.82 lunar
+magnetude: 29.77
+
+
+=+==+==+==+==+= asteroids from day 2021-12-04 =+==+==+==+==+=
+
+=+==+==+= name: 415713 (1998 XX2) =+==+==+=
+speed: 10.33km/s
+diameter: 450.34m
+distance: 30.00 lunar
+magnetude: 19.9
+
+=+==+==+= name: (2010 GR33) =+==+==+=
+speed: 16.31km/s
+diameter: 129.88m
+distance: 97.39 lunar
+magnetude: 22.6
+
+=+==+==+= name: (2013 PG10) =+==+==+=
+speed: 6.42km/s
+diameter: 11.85m
+distance: 110.61 lunar
+magnetude: 27.8
+
+=+==+==+= name: (2014 UZ191) =+==+==+=
+speed: 13.86km/s
+diameter: 225.71m
+distance: 136.16 lunar
+magnetude: 21.4
+
+=+==+==+= name: (2014 WZ365) =+==+==+=
+speed: 9.15km/s
+diameter: 27.14m
+distance: 28.66 lunar
+magnetude: 26.0
+
+=+==+==+= name: (2014 XK3) =+==+==+=
+speed: 16.23km/s
+diameter: 561.75m
+distance: 166.34 lunar
+magnetude: 19.42
+
+=+==+==+= name: (2016 XR1) =+==+==+=
+speed: 6.21km/s
+diameter: 62.16m
+distance: 61.23 lunar
+magnetude: 24.2
+
+=+==+==+= name: (2019 LY5) =+==+==+=
+speed: 19.74km/s
+diameter: 259.14m
+distance: 120.05 lunar
+magnetude: 21.1
+
+=+==+==+= name: (2021 SV2) =+==+==+=
+speed: 9.05km/s
+diameter: 188.60m
+distance: 43.26 lunar
+magnetude: 21.79
+
+=+==+==+= name: (2021 TV7) =+==+==+=
+speed: 6.66km/s
+diameter: 115.22m
+distance: 44.81 lunar
+magnetude: 22.86
+
+=+==+==+= name: (2021 UP4) =+==+==+=
+speed: 8.32km/s
+diameter: 63.61m
+distance: 13.86 lunar
+magnetude: 24.15
+
+=+==+==+= name: (2021 WX4) =+==+==+=
+speed: 6.86km/s
+diameter: 129.76m
+distance: 103.19 lunar
+magnetude: 22.602
+
+=+==+==+= name: (2021 XA1) =+==+==+=
+speed: 8.13km/s
+diameter: 18.64m
+distance: 13.82 lunar
+magnetude: 26.816
+
+=+==+==+= name: (2021 XF1) =+==+==+=
+speed: 7.82km/s
+diameter: 5.36m
+distance: 0.80 lunar
+magnetude: 29.52
+
+=+==+==+= name: (2021 XG2) =+==+==+=
+speed: 12.91km/s
+diameter: 158.40m
+distance: 17.93 lunar
+magnetude: 22.169
+
+=+==+==+= name: (2021 XG3) =+==+==+=
+speed: 7.81km/s
+diameter: 25.28m
+distance: 14.59 lunar
+magnetude: 26.154
+
+
+=+==+==+==+==+= asteroids from day 2021-12-07 =+==+==+==+==+=
+
+=+==+==+= name: 523813 (2008 VB1) =+==+==+=
+speed: 8.03km/s
+diameter: 341.62m
+distance: 158.79 lunar
+magnetude: 20.5
+
+=+==+==+= name: (2014 XC8) =+==+==+=
+speed: 9.93km/s
+diameter: 23.63m
+distance: 26.55 lunar
+magnetude: 26.3
+
+=+==+==+= name: (2016 KC) =+==+==+=
+speed: 7.86km/s
+diameter: 113.12m
+distance: 165.58 lunar
+magnetude: 22.9
+
+=+==+==+= name: (2016 LX8) =+==+==+=
+speed: 6.31km/s
+diameter: 71.37m
+distance: 147.56 lunar
+magnetude: 23.9
+
+=+==+==+= name: (2016 TM) =+==+==+=
+speed: 4.75km/s
+diameter: 13.60m
+distance: 101.63 lunar
+magnetude: 27.5
+
+=+==+==+= name: (2016 VX2) =+==+==+=
+speed: 15.34km/s
+diameter: 31.16m
+distance: 149.89 lunar
+magnetude: 25.7
+
+=+==+==+= name: (2018 LN4) =+==+==+=
+speed: 13.05km/s
+diameter: 87.81m
+distance: 164.90 lunar
+magnetude: 23.45
+
+=+==+==+= name: (2019 DJ1) =+==+==+=
+speed: 3.92km/s
+diameter: 18.77m
+distance: 57.48 lunar
+magnetude: 26.8
+
+=+==+==+= name: (2021 KU2) =+==+==+=
+speed: 11.52km/s
+diameter: 114.69m
+distance: 78.39 lunar
+magnetude: 22.87
+
+=+==+==+= name: (2021 SR3) =+==+==+=
+speed: 5.03km/s
+diameter: 119.00m
+distance: 36.43 lunar
+magnetude: 22.79
+
+=+==+==+= name: (2021 TH4) =+==+==+=
+speed: 13.98km/s
+diameter: 422.22m
+distance: 85.94 lunar
+magnetude: 20.04
+
+=+==+==+= name: (2021 TQ21) =+==+==+=
+speed: 9.05km/s
+diameter: 126.34m
+distance: 23.33 lunar
+magnetude: 22.66
+
+=+==+==+= name: (2021 VG28) =+==+==+=
+speed: 7.15km/s
+diameter: 77.79m
+distance: 27.74 lunar
+magnetude: 23.713
+
+=+==+==+= name: (2021 WC6) =+==+==+=
+speed: 4.15km/s
+diameter: 81.31m
+distance: 85.92 lunar
+magnetude: 23.617
+
+=+==+==+= name: (2021 XN2) =+==+==+=
+speed: 7.42km/s
+diameter: 15.21m
+distance: 2.33 lunar
+magnetude: 27.257
+
+=+==+==+= name: (2021 XA3) =+==+==+=
+speed: 8.22km/s
+diameter: 23.54m
+distance: 14.53 lunar
+magnetude: 26.309
+
+
+=+==+==+==+==+= asteroids from day 2021-12-06 =+==+==+==+==+=
+
+=+==+==+= name: 138937 (2001 BK16) =+==+==+=
+speed: 18.29km/s
+diameter: 1304.80m
+distance: 153.13 lunar
+magnetude: 17.59
+
+=+==+==+= name: (2002 XB) =+==+==+=
+speed: 13.88km/s
+diameter: 172.80m
+distance: 64.92 lunar
+magnetude: 21.98
+
+=+==+==+= name: (2010 VP21) =+==+==+=
+speed: 12.02km/s
+diameter: 89.86m
+distance: 39.83 lunar
+magnetude: 23.4
+
+=+==+==+= name: (2012 WR10) =+==+==+=
+speed: 11.45km/s
+diameter: 7.83m
+distance: 111.84 lunar
+magnetude: 28.7
+
+=+==+==+= name: (2014 WC5) =+==+==+=
+speed: 16.21km/s
+diameter: 49.38m
+distance: 140.30 lunar
+magnetude: 24.7
+
+=+==+==+= name: (2015 VF106) =+==+==+=
+speed: 17.92km/s
+diameter: 12.99m
+distance: 156.04 lunar
+magnetude: 27.6
+
+=+==+==+= name: (2016 DY30) =+==+==+=
+speed: 17.51km/s
+diameter: 3.42m
+distance: 162.28 lunar
+magnetude: 30.5
+
+=+==+==+= name: (2017 XO60) =+==+==+=
+speed: 12.06km/s
+diameter: 326.24m
+distance: 115.61 lunar
+magnetude: 20.6
+
+=+==+==+= name: (2018 XW2) =+==+==+=
+speed: 12.25km/s
+diameter: 34.16m
+distance: 31.99 lunar
+magnetude: 25.5
+
+=+==+==+= name: (2019 GJ4) =+==+==+=
+speed: 5.52km/s
+diameter: 27.14m
+distance: 72.74 lunar
+magnetude: 26.0
+
+=+==+==+= name: (2020 HQ1) =+==+==+=
+speed: 14.81km/s
+diameter: 81.95m
+distance: 69.52 lunar
+magnetude: 23.6
+
+=+==+==+= name: (2021 OF1) =+==+==+=
+speed: 4.55km/s
+diameter: 82.33m
+distance: 156.48 lunar
+magnetude: 23.59
+
+=+==+==+= name: (2021 UU5) =+==+==+=
+speed: 25.87km/s
+diameter: 624.51m
+distance: 111.27 lunar
+magnetude: 19.19
+
+=+==+==+= name: (2021 VX7) =+==+==+=
+speed: 6.13km/s
+diameter: 50.44m
+distance: 14.74 lunar
+magnetude: 24.654
+
+=+==+==+= name: (2021 WE1) =+==+==+=
+speed: 8.99km/s
+diameter: 24.17m
+distance: 5.55 lunar
+magnetude: 26.251
+
+=+==+==+= name: (2021 WL2) =+==+==+=
+speed: 7.47km/s
+diameter: 18.41m
+distance: 6.97 lunar
+magnetude: 26.843
+
+=+==+==+= name: (2021 WM2) =+==+==+=
+speed: 12.33km/s
+diameter: 28.44m
+distance: 8.19 lunar
+magnetude: 25.898
+
+=+==+==+= name: (2021 WQ4) =+==+==+=
+speed: 6.70km/s
+diameter: 29.56m
+distance: 21.99 lunar
+magnetude: 25.814
+
+=+==+==+= name: (2021 XE) =+==+==+=
+speed: 3.13km/s
+diameter: 7.64m
+distance: 4.00 lunar
+magnetude: 28.751
+
+=+==+==+= name: (2021 XT1) =+==+==+=
+speed: 5.34km/s
+diameter: 8.34m
+distance: 8.00 lunar
+magnetude: 28.561

@@ -1,0 +1,103 @@
+# MDBoxLayout:
+#     padding: 10
+#     spacing: 10
+#     adaptative_height:True
+#     markup: True
+#     orientation: "vertical"
+
+MDScreen:
+    
+    MDBoxLayout:
+       # adaptative_height:True
+        orientation:'vertical'
+        text:'oi'
+        halign:'center'
+       # on_release:app.content_meteor(app.screen_app)
+
+
+        MDToolbar:
+            padding:1
+            title: "Caste - Catálogo de Asteroids"
+        # md_bg_color: 'Violet'
+            left_action_items: [["menu", lambda x: app.test(x)]]
+            id: bar
+            halign:"center"
+            
+        
+
+    #MDBoxLayout:
+        
+        ScrollView:
+                     #  orientation:'vertical'
+           # bar_width: 10
+           # height:110
+
+        
+            MDList:
+                id:painel_asteroid
+                pos_hint: {'top': 800, 'right':1}
+                top:100
+                size_hint_y:None
+                size:(500,0)
+                #height:15
+                padding: 1
+                spacing: 1
+                adaptative_height:True
+                markup: True
+                font_size: '11sp'
+              #  halign: "center"
+            #     id: content
+
+
+
+                # MDBoxLayout:
+                #     adaptative_height:True
+                #     pos_hint: {'top': 400, 'right':1}
+
+                #     MDLabel:
+                # # adaptative_height:True
+                #   #  orientation:'horizontal'
+                #         pos_hint: {'top': 400, 'right':1}
+                #         size:(500,500)
+                #         markup: True
+                #         font_size:'20sp'
+                # #         text:'''[b]\n[/b]'''
+                # MDLabel:
+                #     size_hint: 200, None    # <<<<<<<<<<
+                #     size: self.texture_size   # <<<<<<<<<<
+
+                #     adaptative_height:True
+                # #  orientation:'horizontal'
+                #     #pos_hint: {'top':'100' , 'right':1}
+                #     #size:(100,100)
+                #    # markup: True
+                #     id:info_guide_painel
+                #     font_size:'8sp'
+
+                #     #font_name: "data/Roboto-Light.ttf"
+                #     title:'New Features'
+
+
+
+                # MDLabel:
+                #     size_hint: 200, None    # <<<<<<<<<<
+                #     size: self.texture_size   # <<<<<<<<<<
+
+                #     adaptative_height:True
+                # #  orientation:'horizontal'
+                #     #pos_hint: {'top':'100' , 'right':1}
+                #     #size:(100,100)
+                #     markup: True
+                #   #  id:info_guide_painel
+                #     font_size:'11sp'
+
+                #     font_name: "data/Roboto-Light.ttf"
+                #     title:'New Features'
+                #     text: ''
+                #         #halign:'center'
+                        
+                            
+                #                                 # md_bg_color:'F543564'
+                #                                         #on_press: app.click('fui clicado')
+                                    
+                
